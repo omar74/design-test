@@ -1,0 +1,91 @@
+body{
+    background-color: #bdbdbd;
+}
+
+.page{
+    background-color: #bdbdbd;
+    width : 90%;
+    margin-left: 70px;
+    margin-top: 40px;
+}
+
+
+
+.bg-1 { 
+    background-color: rgb(251, 255, 255);
+    color: rgb(143, 32, 32);
+  }
+
+.mySlides{
+    width: 100%;
+}      
+  
+.card-body{
+    color :rgb(143, 32, 32);
+    background-color: snow;
+}
+
+.bg-3 { 
+    background-color: #ffffff;
+    color: #555555;
+  }
+
+  .bg-2 { 
+    background-color: #474e5d;
+    color: #ffffff;
+  }
+  .container-fluid {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+
+
+  .bg-1 {
+    background: #474e5d;
+    color: #bdbdbd;
+  }
+  .bg-1 h3 {color: #fff;}
+  .bg-1 p {font-style: italic;}
+  .list-group-item:first-child {
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+  }
+  .list-group-item:last-child {
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+  .thumbnail {
+    padding: 0 0 15px 0;
+    border: none;
+    border-radius: 0;
+  }
+  .thumbnail p {
+    margin-top: 15px;
+    color: #555;
+  }
+
+  
+  .pull-right:hover, .pull-right:focus {
+    border: 1px solid #333;
+    background-color: #fff;
+    color: #000;
+
+
+  }
+
+
+  .pull-right {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #f1f1f1;
+    border-radius: 0;
+    transition: .2s;
+  }
+
+
+.footer{
+    color:white;
+    background-color: #474e5d;
+}
+  
